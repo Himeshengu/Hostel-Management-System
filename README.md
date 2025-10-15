@@ -83,8 +83,6 @@ The Hostel Management System improves operational efficiency by simplifying task
 ### Login
 <img width="1427" height="803" alt="Login3" src="https://github.com/user-attachments/assets/49b5f483-f5a6-4873-beab-7f873cc7f6a1" />
 
-![Login](https://github.com/rohan-badugula/Hostel_Management_System/assets/75232973/dc353e29-f8f4-4b47-a55e-0bc9f98152a8)
-
 ---
 ### Home
 ![Home](https://github.com/rohan-badugula/Hostel_Management_System/assets/75232973/c3926c2f-f79c-4d4f-b4e7-7dbd70c3fcc6)
