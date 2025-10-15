@@ -66,6 +66,7 @@ Operational Feasibility
 The Hostel Management System improves operational efficiency by streamlining processes and providing an intuitive interface. Hostel administrators can manage student records, allocate rooms, and track fees with ease.
 
 Use-Case Diagram
+
 <img width="558" height="411" alt="image" src="https://github.com/user-attachments/assets/ed60db6b-ad58-43b4-9b3e-8e8a54fe7832" />
 
 GUI Screenshots
